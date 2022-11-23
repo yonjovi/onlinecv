@@ -1,4 +1,7 @@
 import streamlit as st
+
+st.set_page_config(page_title="Yon Rotem | CV", page_icon="https://i.ibb.co/Ks5WNfg/favicon-16x16.png")
+
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
